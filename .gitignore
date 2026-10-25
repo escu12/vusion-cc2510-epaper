@@ -1,0 +1,11 @@
+# Salida de SDCC
+build/
+# Vistas previas que genera imagen.ps1
+*_vista.png
+# Imagenes de prueba locales
+*.png
+*.jpg
+*.jpeg
+*.webp
+!docs/*.png
+!docs/*.jpg
