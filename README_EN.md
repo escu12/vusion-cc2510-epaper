@@ -29,6 +29,10 @@ Board **RFRTx024A** (VUSION 2.6 BWR, GL320). Everything verified on the real boa
 |---|---|
 | ![Top side](docs/placa_superior.jpg) | ![Bottom side](docs/placa_inferior.jpg) |
 
+The photos show the pads measured with a multimeter on this board, including the two 5-pad edge
+connectors (on the top side, the pad marked "1" is GND). The top connector plus DD from the
+bottom one are enough to flash without soldering to the round pads.
+
 | Part | Details |
 |---|---|
 | MCU + radio | **TI CC2510** (8051, 32 KB flash, 4 KB RAM, CC2500-like radio). Chip ID `0x8104` |

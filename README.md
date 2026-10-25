@@ -29,6 +29,10 @@ Placa **RFRTx024A** (VUSION 2.6 BWR, GL320). Todo comprobado en la placa real.
 |---|---|
 | ![Cara superior](docs/placa_superior.jpg) | ![Cara inferior](docs/placa_inferior.jpg) |
 
+En las fotos están marcados los pads medidos con el polímetro en esta placa, incluidos los dos
+conectores de 5 pads del borde (en la cara superior, el pad marcado con "1" es GND). Con el
+de la cara superior y DD del de la inferior se puede grabar sin soldar en los pads redondos.
+
 | Componente | Detalle |
 |---|---|
 | MCU + radio | **TI CC2510** (8051, 32 KB flash, 4 KB RAM, radio tipo CC2500). Chip ID `0x8104` |
